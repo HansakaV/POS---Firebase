@@ -4,12 +4,7 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBwdUDy_cVBeLT0qjf6oEuqGKDlea0Wcrg",
-  authDomain: "pos-dp.firebaseapp.com",
-  projectId: "pos-dp",
-  storageBucket: "pos-dp.appspot.com",
-  messagingSenderId: "816631828077",
-  appId: "1:816631828077:web:9626cb7e77bc2670d23964"
+  //add your firebase config here
 };
 
 
